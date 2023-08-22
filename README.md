@@ -13,7 +13,7 @@ npm Install
 Run Tailwind CLI
 
 ```
-npm run watch
+npm run build
 ```
 
 ![Alt text](images/shortly.png)
